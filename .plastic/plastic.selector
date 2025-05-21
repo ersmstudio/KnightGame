@@ -1,0 +1,4 @@
+repository "aHeroKnightInTheDarkAges@Ersm_Studio@cloud"
+  path "/"
+    br "/main"
+    co "/main"
